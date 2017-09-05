@@ -316,6 +316,10 @@ body {
 /* #PRELOADER  ============================================== */
 /* This only works with JavaScript, 
 if it's not present, don't show loader */
+#Truman{
+	border-bottom: solid;
+}
+
 #loader-overflow{
   display:block;
   width: 100%;
