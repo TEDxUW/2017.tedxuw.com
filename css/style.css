@@ -4217,6 +4217,10 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 
 /* #PORTFOLIO 1 #NEW 
 =====================================================*/
+#last-row{
+  display: inline-block;
+}
+
 .port-main-img {
   width: 100%;
   display: block;
