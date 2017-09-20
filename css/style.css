@@ -193,6 +193,26 @@ Examples of online services see in Documentation  */
   text-align: center;
 }
 
+/*Sponsors page*/
+/*#sponsors-page{
+  max-width: 900px;
+}*/
+
+#partner-uw{
+  max-height: 100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#gold-sl{
+  max-height: 100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/*===============*/
+
+
 #year{    
     border-bottom: 1px dotted #000;
     text-decoration: none;
