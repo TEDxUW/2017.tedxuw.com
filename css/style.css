@@ -193,6 +193,26 @@ Examples of online services see in Documentation  */
   text-align: center;
 }
 
+/*Sponsors page*/
+/*#sponsors-page{
+  max-width: 900px;
+}*/
+
+#partner-uw{
+  max-height: 100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#gold-sl{
+  max-height: 100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/*===============*/
+
+
 #year{    
     border-bottom: 1px dotted #000;
     text-decoration: none;
@@ -4217,6 +4237,10 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 
 /* #PORTFOLIO 1 #NEW 
 =====================================================*/
+#last-row{
+  display: inline-block;
+}
+
 .port-main-img {
   width: 100%;
   display: block;
