@@ -246,6 +246,38 @@ Examples of online services see in Documentation  */
   margin-top: 0px;
 }
 
+.pt-30-b-80-cont{
+  text-align:center;
+}
+
+#app_title{
+  text-align:center;
+  margin: 0 auto;
+}
+
+#dotted-u{
+  border-bottom: 1px dotted #000;
+  text-decoration: none;
+}
+
+.sponsor-center{
+  text-align:center;
+}
+
+#sponsor-img-tedx{
+  width: 85%;
+  max-width: 320px;
+}
+
+#sponsor-img-uw{
+  width: 85%;
+  max-width: 370px;
+}
+
+#sponsor-img-others{
+  width: 50%;
+  max-width: 200px;
+}
 
 html, body, div, span, applet, object, iframe, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, fieldset, form, label, legend, caption, tbody, tfoot, thead, tr, th, td {
   margin: 0;
