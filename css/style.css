@@ -14015,6 +14015,12 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
   #rs-offset{height:152px;}
 }
 
+#sponsorcontainer .row{
+	margin: 0 auto;
+	text-align: center;
+	float: left;
+}
+
 .sponsor1 {
 	padding: 10px;
 	width: 300px;
