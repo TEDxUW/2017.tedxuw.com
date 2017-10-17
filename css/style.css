@@ -313,28 +313,7 @@ Examples of online services see in Documentation  */
 	height: auto;
 }
 
-.sponsor1 img:hover {
-	filter: none;
-    opacity: 80%;
-    cursor: pointer;
-    transition: all 300ms ease;
-}
-
-.sponsor2 img:hover {
-	filter: none;
-    opacity: 80%;
-    cursor: pointer;
-    transition: all 300ms ease;
-}
-
-.sponsor3 img:hover {
-	filter: none;
-    opacity: 80%;
-    cursor: pointer;
-    transition: all 300ms ease;
-}
-
-.sponsor4 img:hover {
+#sponsorcontainer img:hover {
 	filter: none;
     opacity: 80%;
     cursor: pointer;
