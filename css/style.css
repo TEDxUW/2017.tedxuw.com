@@ -280,10 +280,7 @@ Examples of online services see in Documentation  */
 
 #sponsor-img-uw img:hover {
 	filter: none;
-    -webkit-filter: grayscale(30%);
-    -moz-filter:    grayscale(30%);
-    -ms-filter:     grayscale(30%);
-    -o-filter:      grayscale(30%);
+    opacity: 80%;
     cursor: pointer;
     transition: all 300ms ease;
 }
@@ -318,40 +315,28 @@ Examples of online services see in Documentation  */
 
 .sponsor1 img:hover {
 	filter: none;
-    -webkit-filter: grayscale(30%);
-    -moz-filter:    grayscale(30%);
-    -ms-filter:     grayscale(30%);
-    -o-filter:      grayscale(30%);
+    opacity: 80%;
     cursor: pointer;
     transition: all 300ms ease;
 }
 
 .sponsor2 img:hover {
 	filter: none;
-    -webkit-filter: grayscale(30%);
-    -moz-filter:    grayscale(30%);
-    -ms-filter:     grayscale(30%);
-    -o-filter:      grayscale(30%);
+    opacity: 80%;
     cursor: pointer;
     transition: all 300ms ease;
 }
 
 .sponsor3 img:hover {
 	filter: none;
-    -webkit-filter: grayscale(30%);
-    -moz-filter:    grayscale(30%);
-    -ms-filter:     grayscale(30%);
-    -o-filter:      grayscale(30%);
+    opacity: 80%;
     cursor: pointer;
     transition: all 300ms ease;
 }
 
 .sponsor4 img:hover {
 	filter: none;
-    -webkit-filter: grayscale(30%);
-    -moz-filter:    grayscale(30%);
-    -ms-filter:     grayscale(30%);
-    -o-filter:      grayscale(30%);
+    opacity: 80%;
     cursor: pointer;
     transition: all 300ms ease;
 }
