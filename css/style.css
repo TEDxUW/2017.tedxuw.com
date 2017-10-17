@@ -289,7 +289,7 @@ html, body, div, span, applet, object, iframe, a, abbr, acronym, address, big, c
   outline: 0;
 }
 
-/* HTML5 display-role reset for older browsers */
+/* HTML5 display-role reset for older bsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -14013,4 +14013,28 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 
 @media (max-width: 1024px){
   #rs-offset{height:152px;}
+}
+
+.sponsor1 {
+	padding: 10px;
+	width: 300px;
+	height: auto;
+}
+
+.sponsor2 {
+	padding: 10px;
+	width: 220px;
+	height: auto;
+}
+
+.sponsor3 {
+	padding: 10px;
+	width: 160px;
+	height: auto;
+}
+
+.sponsor4 {
+	padding: 10px;
+	width: 120px;
+	height: auto;
 }
