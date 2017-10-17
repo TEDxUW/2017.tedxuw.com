@@ -279,15 +279,14 @@ Examples of online services see in Documentation  */
 }
 
 .sponsor1 {
-	padding: 10px;
+	padding: 15px;
 	width: 70%;
 	max-width: 300px;
 	height: auto;
-	float: left;
 }
 
 .sponsor2 {
-	padding: 10px;
+	padding: 15px;
 	width: 45%;
 	max-width: 220px;
 	height: auto;
@@ -295,7 +294,7 @@ Examples of online services see in Documentation  */
 }
 
 .sponsor3 {
-	padding: 10px;
+	padding: 15px;
 	width: 30%;
 	max-width: 160px;
 	height: auto;
@@ -303,7 +302,7 @@ Examples of online services see in Documentation  */
 }
 
 .sponsor4 {
-	padding: 10px;
+	padding: 15px;
 	width: 20%;
 	max-width: 120px;
 	height: auto;
