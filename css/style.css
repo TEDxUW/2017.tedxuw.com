@@ -334,6 +334,10 @@ Examples of online services see in Documentation  */
   color:grey;
 }
 
+#tweets {
+  text-align: inline;
+}
+
 u.dotted{
   border-bottom: 1px dashed #999;
   text-decoration: none; 
